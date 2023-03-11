@@ -1,4 +1,4 @@
-These scripts are for solving steady state heat i.e., laplace equation of a rectangle using uniform mesh implicit FDM, explicit 
+#These scripts are for solving steady state heat i.e., laplace equation of a rectangle using uniform mesh implicit FDM, explicit 
 FDM, trimesh FEM and trimesh FDM.
 
 Version         : 1.0

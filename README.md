@@ -2,7 +2,6 @@ These scripts are for solving steady state heat i.e., laplace equation of a rect
 FDM, trimesh FEM and trimesh FDM.
 
 Version         : 1.0
-
 Author          : Muhammad Sayed Aktar Rahman
 Maintainer      : Muhammad Sayed Aktar Rahman
 Category        : Numerical Maths

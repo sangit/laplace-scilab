@@ -18,7 +18,7 @@ Creation Date   : March 11, 2023
 URL             : https://github.com/sangit/laplace-scilab
 
 
-Tne point_in_polygon.sce is under the license:
+The point_in_polygon.sce is under the license:
 
 Version         : 1.0
 

@@ -17,6 +17,8 @@ Creation Date   : March 11, 2023
 
 URL             : https://github.com/sangit/laplace-scilab
 
+Document        : https://www.researchgate.net/publication/369300159_Comparison_of_Uniform_mesh_FDM_Trimesh_FEM_and_Trimesh_FDM
+
 
 The point_in_polygon.sce is under the license:
 
